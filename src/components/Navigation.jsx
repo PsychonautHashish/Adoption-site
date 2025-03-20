@@ -6,7 +6,7 @@ export default function Navigation() {
   return (
     <nav className="glass-nav">
       <div className="nav-content">
-        <Link to="/" className="logo">HopeHaven</Link>
+        <Link to="/" className="logo">Hopeful Hearts Adoption</Link>
         <div className="nav-links">
           <Link to="/"><FiHome /> Home</Link>
           <Link to="/children"><FiHeart /> Children</Link>

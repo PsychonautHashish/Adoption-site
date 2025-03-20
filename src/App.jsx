@@ -21,7 +21,6 @@ function App() {
       <Navigation />
       <TransitionGroup component={null}>
         <CSSTransition
-          key={location.key}
           classNames="fade"
           timeout={300}
         >
