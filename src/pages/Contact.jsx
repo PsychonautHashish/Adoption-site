@@ -11,15 +11,15 @@ export default function Contact() {
           <h2>Contact Information</h2>
           <div className="contact-item">
             <FiMapPin className="contact-icon" />
-            <p>123 Hope Street<br />New York, NY 10001</p>
+            <p>123 Hope Street<br />Nairobi, Kenya 00100</p>
           </div>
           <div className="contact-item">
             <FiMail className="contact-icon" />
-            <p>contact@hopehaven.org</p>
+            <p>mbuthiaeddy@gmail/com</p>
           </div>
           <div className="contact-item">
             <FiPhone className="contact-icon" />
-            <p>+1 (555) 123-4567</p>
+            <p>+254 793631331</p>
           </div>
         </div>
 
