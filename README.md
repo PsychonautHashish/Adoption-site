@@ -1,12 +1,29 @@
-# React + Vite
+🌟 Hopeful Hearts Adoption – Find a Loving Home
+Welcome to Hopeful Hearts Adoption, a platform dedicated to connecting children with loving families. Our mission is to make adoption a seamless, compassionate, and transparent journey for both adoptive parents and children.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌍 About the Project
+This website serves as a bridge between children in need of a home and families ready to provide love and care. Key features include:
 
-Currently, two official plugins are available:
+Adoptive Parent Registration – Create a profile, browse available children, and begin the adoption process.
+Child Profiles – View detailed profiles of children looking for a forever home.
+Support & Resources – Access FAQs, adoption guidelines, and support networks.
+Secure Communication – Connect with caseworkers and adoption professionals safely.
+🚀 Features
+✅ User-friendly and responsive design
+✅ Secure user authentication and data protection
+✅ Real-time application tracking
+✅ Community and support forums
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+Frontend: React, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: Firebase/Auth0
+Hosting: Vercel / AWS
+🤝 Contributing
+We welcome contributions! If you'd like to improve this project, feel free to fork the repo and submit a pull request.
 
-## Expanding the ESLint configuration
+📩 Contact
+For inquiries, please reach out to contact@hopefulheartsadoption.org
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Let me know if you'd like a different tone or additional details! 😊
